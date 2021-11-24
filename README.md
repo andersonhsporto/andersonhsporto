@@ -1,6 +1,6 @@
 # Hi there! 👋, I'm Anderson
 
-## Agronomist | Craft beer enthusiast 🍺 
+## Agronomist 🚜 | Musician 🎸 | Craft beer enthusiast 🍺 
 <br>
 
 <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/>Cadet in 42 Sâo Paulo.
