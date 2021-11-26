@@ -27,7 +27,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhsporto&layout=compact&theme=radical)](https://github.com/andersonhsporto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhsporto&layout=compact&theme=dark)](https://github.com/andersonhsporto)
 
 <p align=left> <b>About Me</b> </p>
 <p align=left>
