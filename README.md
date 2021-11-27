@@ -29,7 +29,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhsporto&layout=compact&theme=dark)](https://github.com/andersonhsporto)
 
+<br>
+<br>
+
 [![anhigo-s 42 stats](https://badge42.herokuapp.com/api/stats/anhigo-s?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/andersonhsporto)
+
+<br>
 
 <p align=left> <b>About Me</b> </p>
 <p align=left>
@@ -37,9 +42,7 @@
 <a href="mailto:anderson.higo2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 <a href= "https://www.linkedin.com/in/andersonhsporto/"target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a> 
   
-  
-
-  </p>
+</p>
   
   
  
