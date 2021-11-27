@@ -25,16 +25,15 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"/>
 </p>
 
-<br>
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhsporto&layout=compact&theme=dark)](https://github.com/andersonhsporto)
 
 <br>
-<br>
 
 [![anhigo-s 42 stats](https://badge42.herokuapp.com/api/stats/anhigo-s?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/andersonhsporto)
 
-<br>
+<br><br>
 
 <p align=left> <b>About Me</b> </p>
 <p align=left>
