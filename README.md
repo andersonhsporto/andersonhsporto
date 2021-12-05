@@ -3,7 +3,8 @@
 ## Agronomist 🚜 | Musician 🎸 | Craft beer enthusiast 🍺 
 <br>
 
-<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/>Cadet at 42 Sâo Paulo.
+
+<a href="https://www.42sp.org.br/" target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=42&logoColor=black"/></a>Cadet at 42 Sâo Paulo.
 
 - 🌱 I’m currently learning C, Shell Script and Ruby
 
