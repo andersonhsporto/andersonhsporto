@@ -1,6 +1,6 @@
 # Hi there! 👋, I'm Anderson Porto
 
-## Agronomist 🚜 | Musician 🎸 | Craft beer enthusiast 🍺 
+## Agronomist 🚜 | Musician 🎸 
 <br>
 
 
