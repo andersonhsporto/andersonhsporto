@@ -6,7 +6,7 @@
 
 Cadet at 42 Sâo Paulo.
 
-- 🌱 I’m currently learning C, Shell Script and Javascript
+- 🌱 I’m currently learning C and Javascript
 <hr>
 <!-- <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%"> -->
 
