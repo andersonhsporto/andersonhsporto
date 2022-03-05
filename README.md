@@ -1,19 +1,19 @@
-# Hi there! 👋, I'm Anderson Porto
 
-## Agronomist 🌾 | Musician 🎸 
-<br>
+![Hi](./img/header.png)
 
+## Student at the [42 São Paulo](https://www.42sp.org.br/).
 
-Cadet at 42 Sâo Paulo.
+ - 🌾 Agronomist 
+ - 🎸  Musician
+ - 🌱 I’m currently learning C and Javascript
 
-- 🌱 I’m currently learning C and Javascript
 <hr>
 <!-- <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%"> -->
 
-<br>
 
-<p align=left> <b>Techs</b> </p>
-  Techs that I've used at least once</p>
+<p align=left>
+  Techs that I've used at least once
+</p>
   
 <p align=left>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
@@ -27,8 +27,9 @@ Cadet at 42 Sâo Paulo.
 </p>
 <hr>
 <br><br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhsporto&layout=compact&theme=tokyonight)](https://github.com/andersonhsporto)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhsporto&layout=compact&theme=dark)](https://github.com/andersonhsporto)
 
 <br>
 
