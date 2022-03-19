@@ -50,7 +50,9 @@
 
 <br>
 
-[![anhigo-s 42 stats](https://badge42.herokuapp.com/api/stats/anhigo-s?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com/andersonhsporto)
+<!---
+#[![anhigo-s 42 stats](https://badge42.herokuapp.com/api/stats/anhigo-s?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com#/andersonhsporto)
+-->
 
 <br>
 <p align=left> <b>📬 How to reach me</b> </p>
