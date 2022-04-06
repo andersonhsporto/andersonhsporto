@@ -51,6 +51,8 @@
 <br>
 
 <!---
+[![anhigo-s's 42 stats](https://badge42.vercel.app/api/v2/cl1mzhqsg000609lex2an5jr4/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
 #[![anhigo-s 42 stats](https://badge42.herokuapp.com/api/stats/anhigo-s?privacyEmail=true&cursus=42cursus&privacyName=true)](https://github.com#/andersonhsporto)
 -->
 
