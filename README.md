@@ -30,7 +30,6 @@
 
 <br>
 
-
 ## GitHub Stats:
 
 <p align="left">
@@ -38,7 +37,7 @@
   <img
       align="center"
       height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhsporto&layout=compact&theme=prussian"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhsporto&&hide=c&layout=compact&theme=prussian"
       src="https://github-readme-stats.vercel.app/api?username=andersonhsporto&theme=prussian&show_icons=true"/>
 </a>  
   <a href="https://github.com/andersonhsporto">
