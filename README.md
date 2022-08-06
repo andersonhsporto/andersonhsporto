@@ -5,7 +5,6 @@
 
  - 🌾 Agronomist 
  - 🎸 Musician
- - 🔭 I’m currently working on [miniRT](https://github.com/andersonhsporto/ft-miniRT)
  - 🌱 I’m currently learning **Java, Spring, C++**
 
 <hr>
