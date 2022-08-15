@@ -5,7 +5,7 @@
 
  - 🌾 Agronomist 
  - 🎸 Musician
- - 🌱 I’m currently learning **Java, Spring, C++**
+ - 🌱 I’m currently learning **Java and good practices to clean code**
 
 <hr>
 <!-- <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%"> -->
@@ -51,9 +51,6 @@
 
 
 <br>
-
-## Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 
 <!---
 [![anhigo-s's 42 stats](https://badge42.vercel.app/api/v2/cl1mzhqsg000609lex2an5jr4/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
