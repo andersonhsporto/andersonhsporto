@@ -1,7 +1,7 @@
 
 ![Hi](./img/header.png)
 
-## Student at the [42 São Paulo](https://www.42sp.org.br/)
+## Student at the [42 São Paulo](https://www.42sp.org.br/) -> <a href="https://stackshare.io/andersonporto/my-stack">Stack</a>
 
  - 🌾 Agronomist 
  - 🎸 Musician
@@ -11,9 +11,7 @@
 <!-- <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%"> -->
 
 
-<!-- <p align=left>
-  Techs that I've used at least once
-</p>
+
   
 <p align=left>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
