@@ -6,10 +6,11 @@
 <a href="mailto:anderson.higo2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href= "https://www.linkedin.com/in/andersonhsporto/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
-## Student at [42 São Paulo](https://www.42sp.org.br/) -> <a href="https://stackshare.io/andersonporto/my-stack">Stack</a>
+## Backend developer -> <a href="https://stackshare.io/andersonporto/my-stack">Stack</a>
 
  - 🌾 Agronomist 
  - 🎸 Musician
+ - 🏊🏾 Student at [42 São Paulo](https://www.42sp.org.br/)
  - 🌱 I’m currently learning **Java and good practices to clean code**
 
 <hr>
