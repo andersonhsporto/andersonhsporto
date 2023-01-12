@@ -23,14 +23,14 @@
   <img
       align="center"
       height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhsporto&&hide=c,jupyter%20notebook,Makefile&layout=compact&theme=prussian"
-      src="https://github-readme-stats.vercel.app/api?username=andersonhsporto&theme=prussian&show_icons=true"/>
+      src="https://github-readme-stats-x25el1gzp-andersonhsporto.vercel.app/api/top-langs/?username=andersonhsporto&&hide=c,jupyter%20notebook,Makefile&layout=compact&theme=prussian"
+
 </a>  
   <a href="https://github.com/andersonhsporto">
     <img
       align="center"
       height="160em"
-      src="https://github-readme-stats.vercel.app/api?username=andersonhsporto&theme=prussian&show_icons=true" />
+      src="https://github-readme-stats-x25el1gzp-andersonhsporto.vercel.app/api?username=andersonhsporto&theme=prussian&show_icons=true" />
   </a>
 </p>
 
