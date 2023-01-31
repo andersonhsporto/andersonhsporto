@@ -18,7 +18,7 @@
 
 ## GitHub Stats:
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/andersonhsporto">
   <img
       align="center"
