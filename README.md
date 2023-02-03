@@ -4,10 +4,13 @@
 
 <p align=center>
 <a href="mailto:anderson.higo2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-<a href= "https://www.linkedin.com/in/andersonhsporto/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href= "https://www.linkedin.com/in/andersonhsporto/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <a href= "https://leetcode.com/andersonporto/"target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
 
-## Backend developer -> <a href="https://stackshare.io/andersonporto/my-stack">Stack</a>
+ 
+ </a> 
 
+ - 👨🏾‍💻 Backend developer
  - 🌾 Agronomist 
  - 🎸 Musician
  - 🏊🏾 Student at [42 São Paulo](https://www.42sp.org.br/)
@@ -35,6 +38,8 @@
 </p>
 
 <br/>
+ 
+ 
 
 
 <br>
