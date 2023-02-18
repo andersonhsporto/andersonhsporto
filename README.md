@@ -10,11 +10,11 @@
  
  </a> 
 
- - 👨🏾‍💻 Backend developer
  - 🌾 Agronomist 
+ - 👨🏾‍💻 Backend developer
  - 🎸 Musician
  - 🏊🏾 Student at [42 São Paulo](https://www.42sp.org.br/)
- - 🌱 I’m currently learning **Java and good practices to clean code**
+ - 🌱 I’m currently learning **Network Programming using C++**
 
 <hr>
 <!-- <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%"> -->
