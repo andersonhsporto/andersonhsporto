@@ -11,7 +11,6 @@
  </a> 
 
  - 🌾 Agronomist 
- - 👨🏾‍💻 Backend developer
  - 🎸 Musician
  - 🏊🏾 Student at [42 São Paulo](https://www.42sp.org.br/)
  - 🌱 I’m currently learning **Network Programming using C++**
