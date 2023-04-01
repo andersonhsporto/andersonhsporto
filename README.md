@@ -11,8 +11,7 @@
 
  - 🌾 Agronomist 
  - 🎸 Musician
- - 🏊🏾 Student at [42 São Paulo](https://www.42sp.org.br/) see my projects [here](
-	https://github.com/andersonhsporto/ft-cursus)
+ - 🏊🏾 Student at [42 São Paulo](https://www.42sp.org.br/) all projects are available [here](https://github.com/andersonhsporto/ft-cursus)
  - 🌱 I’m currently learning **Network Programming using C++**
 
 <hr>
