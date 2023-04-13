@@ -12,7 +12,7 @@
  - 🌾 Agronomist 
  - 🎸 Musician
  - 🏊🏾 Student at [42 São Paulo](https://www.42sp.org.br/) all projects are available [here](https://github.com/andersonhsporto/ft-cursus)
- - 🌱 I’m currently learning **Network Programming using C++**
+ - 🌱 I’m currently learning **Web Development With TypeScript**
 
 <hr>
 <!-- <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%"> -->
