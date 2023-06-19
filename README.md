@@ -31,7 +31,7 @@
     <img
       align="center"
       height="160em"
-      src="https://github-readme-stats-beta-flame.vercel.app/api?username=andersonhsporto&theme=prussian&show_icons=true" />
+      src="https://github-readme-stats-beta-flame.vercel.app/api?username=andersonhsporto&rank_icon=github&theme=prussian&show_icons=true" />
   </a>
 </p>
 
