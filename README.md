@@ -22,6 +22,7 @@
 <p align="center">
   <a href="https://github.com/andersonhsporto">
   <img
+      decoding="async" loading="lazy"
       align="center"
       height="160em"
       src="https://github-readme-stats-beta-flame.vercel.app/api/top-langs/?username=andersonhsporto&&hide=c,jupyter%20notebook,Makefile&layout=compact&theme=prussian"
@@ -29,6 +30,7 @@
 </a>  
   <a href="https://github.com/andersonhsporto">
     <img
+      decoding="async" loading="lazy"
       align="center"
       height="160em"
       src="https://github-readme-stats-beta-flame.vercel.app/api?username=andersonhsporto&rank_icon=github&theme=prussian&show_icons=true" />
