@@ -1,18 +1,18 @@
 
 ![Hi](./img/header.png)
 
-
-<p align=center>
-<a href="mailto:anderson.higo2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-<a href= "https://www.linkedin.com/in/andersonhsporto/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <p align=center>
  <a href= "https://leetcode.com/andersonporto/"target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
  <a href= "https://www.codingame.com/profile/e8f78754de8dc6139e74db1abf044ecf1100254"target="_blank"><img src="https://img.shields.io/badge/-CodinGame-000000?style=for-the-badge&logo=CodinGame&logoColor=white"/>
  </a> 
 
- - 🌾 Agronomist 
- - 🎸 Musician
- - 🏊🏾 Student at [42 São Paulo](https://www.42sp.org.br/) all projects are available [here](https://github.com/andersonhsporto/ft-cursus)
- - 🌱 I’m currently learning **Web Development With TypeScript**
+## Overview
+
+Alumni at 42 São Paulo. I studied at 42 São Paulo and specialized in Back End Development, focusing on Java and Spring All projects developed during the course are available [here](https://github.com/andersonhsporto/ft-cursus).
+Throughout my time at 42 São Paulo, I gained valuable experience in software engineering and had the opportunity to work on various projects. The immersive and dynamic learning environment provided by 42 São Paulo helped me develop a strong foundation in the field.
+In addition to my technical education, I also hold a degree in Agricultural Engineering.
+
+I am passionate about the intersection of technology and agriculture and strive to make a positive impact on people's lives. Combining my knowledge of technology with my background in agriculture, I aim to contribute to the development of innovative solutions that address the challenges faced by the agricultural sector.
 
 <hr>
 <!-- <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%"> -->
@@ -39,7 +39,12 @@
 
 <br/>
  
- 
+ If you would like to learn more about my work or connect with me, please feel free to reach out through the following channels:
+
+<p align=center>
+<a href="mailto:anderson.higo2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href= "https://www.linkedin.com/in/andersonhsporto/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a> 
 
 
 <br>
