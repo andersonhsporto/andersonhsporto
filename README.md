@@ -12,8 +12,7 @@ Alumni at 42 São Paulo. I studied at 42 São Paulo and specialized in Back End 
 Throughout my time at 42 São Paulo, I gained valuable experience in software engineering and had the opportunity to work on various projects. The immersive and dynamic learning environment provided by 42 São Paulo helped me develop a strong foundation in the field.
 In addition to my technical education, I also hold a degree in Agricultural Engineering.
 
-I am passionate about the intersection of technology and agriculture and strive to make a positive impact on people's lives. Combining my knowledge of technology with my background in agriculture, I aim to contribute to the development of innovative solutions that address the challenges faced by the agricultural sector.
-
+I am passionate about the intersection of technology and agriculture and strive to make a positive impact on people's lives.
 <hr>
 <!-- <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%"> -->
 
