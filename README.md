@@ -8,8 +8,10 @@
 
 ## Overview
 
-Alumni at 42 São Paulo. I studied at 42 São Paulo and specialized in Back End Development, focusing on Java and Spring All projects developed during the course are available [here](https://github.com/andersonhsporto/ft-cursus).
-Throughout my time at 42 São Paulo, I gained valuable experience in software engineering and had the opportunity to work on various projects. The immersive and dynamic learning environment provided by 42 São Paulo helped me develop a strong foundation in the field.
+Alumni at 42 São Paulo. I studied at 42 São Paulo and specialized in Back End Development, focusing on Java and Spring.
+All projects developed during the course are available [here](https://github.com/andersonhsporto/ft-cursus).
+Throughout my time at 42 São Paulo, I gained valuable experience in software engineering and had the opportunity to work on various projects. 
+The immersive and dynamic learning environment provided by 42 São Paulo helped me develop a strong foundation in the field.
 In addition to my technical education, I also hold a degree in Agricultural Engineering.
 
 I am passionate about the intersection of technology and agriculture and strive to make a positive impact on people's lives.
