@@ -10,8 +10,7 @@
 
 Alumni at [42 São Paulo](https://www.42sp.org.br/).
 All projects developed during the course are available [here](https://github.com/andersonhsporto/ft-cursus).
-Throughout my time at 42 São Paulo, I gained valuable experience in software engineering and had the opportunity to work on various projects. 
-The immersive and dynamic learning environment provided by 42 School helped me develop a strong foundation in the field.
+Throughout my time at 42 São Paulo, I gained experience in software engineering and had the opportunity to work on various projects. 
 In addition to my technical education, I also hold a degree in Agricultural Engineering.
 
 I am passionate about the intersection of technology and agriculture and strive to make a positive impact on people's lives.
