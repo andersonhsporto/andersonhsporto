@@ -17,7 +17,7 @@ I am interested in the intersection of technology and agriculture and strive to 
 <hr>
 <!-- <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%"> -->
 
-## GitHub Stats:
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/andersonhsporto">
@@ -36,6 +36,13 @@ I am interested in the intersection of technology and agriculture and strive to 
       src="https://github-readme-stats-beta-flame.vercel.app/api?username=andersonhsporto&rank_icon=github&theme=prussian&show_icons=true" />
   </a>
 </p>
+
+## Hacktoberfest Badges
+
+[![An image of 
+@andersonhsporto's Holopin badges, which is a link to view their full 
+Holopin 
+profile](https://holopin.me/andersonhsporto)](https://holopin.io/@andersonhsporto)
 
 <br/>
  
