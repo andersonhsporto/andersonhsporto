@@ -37,15 +37,6 @@ I am interested in the intersection of technology and agriculture and strive to 
   </a>
 </p>
 
-## Hacktoberfest Badges
-
-[![An image of 
-@andersonhsporto's Holopin badges, which is a link to view their full 
-Holopin 
-profile](https://holopin.me/andersonhsporto)](https://holopin.io/@andersonhsporto)
-
-<br/>
- 
  If you would like to learn more about my work or connect with me, please feel free to reach out through the following channels:
 
 <p align=center>
@@ -54,4 +45,6 @@ profile](https://holopin.me/andersonhsporto)](https://holopin.io/@andersonhsport
  </a> 
 
 
-<br>
+<br/>
+<br/>
+<br/>
