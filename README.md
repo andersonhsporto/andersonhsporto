@@ -14,7 +14,7 @@ All projects developed during the course are available [here](https://github.com
 In addition to my technical education, I also hold a degree in Agricultural Engineering.
 
 I am interested in the intersection of technology and agriculture and strive to make a positive impact on people's lives.
-<hr>
+
 <!-- <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%"> -->
 
 ## GitHub Stats
