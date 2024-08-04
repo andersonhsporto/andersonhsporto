@@ -11,17 +11,14 @@ In addition to my technical education, I also hold a degree in Agricultural Engi
 
 I am interested in the intersection of technology and agriculture and strive to make a positive impact on people's lives.
 
-<p align='center'>
- 
+
 <p align=center>
-<a href="mailto:anderson.higo2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-<a href= "https://www.linkedin.com/in/andersonhsporto/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- <a href= "https://www.codingame.com/profile/e8f78754de8dc6139e74db1abf044ecf1100254"target="_blank"><img src="https://img.shields.io/badge/-CodinGame-000000?style=for-the-badge&logo=CodinGame&logoColor=white"/>
- </a>
- </a>
+  <a href="mailto:anderson.higo2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href= "https://www.linkedin.com/in/andersonhsporto/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href= "https://leetcode.com/andersonporto/"target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+   <a href= "https://www.codingame.com/profile/e8f78754de8dc6139e74db1abf044ecf1100254"target="_blank"><img src="https://img.shields.io/badge/-CodinGame-000000?style=for-the-badge&logo=CodinGame&logoColor=white"/></a>
 </p>
 
-</p>
 
 </br>
 
