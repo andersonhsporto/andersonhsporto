@@ -5,11 +5,9 @@
 </a>
 
 Backend developer,
-Alumni at [42 São Paulo](https://www.42sp.org.br/).
-All projects developed during the course are available [here](https://github.com/andersonhsporto/ft-cursus).
-In addition to my technical education, I also hold a degree in Agricultural Engineering.
+Alumni at [42 São Paulo](https://www.42sp.org.br/), with all course projects available [here](https://github.com/andersonhsporto/ft-cursus). Alongside my technical education, I also hold a degree in Agricultural Engineering.
 
-I am interested in the intersection of technology and agriculture and strive to make a positive impact on people's lives.
+I am passionate about the intersection of technology and agriculture, aiming to create innovative solutions that positively impact people's lives.
 
 </br></br>
 
