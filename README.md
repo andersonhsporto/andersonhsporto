@@ -26,7 +26,7 @@ I am passionate about the intersection of technology and agriculture, aiming to 
       decoding="async" loading="lazy"
       align="center"
       height="160em"
-      src="https://streak-stats.demolab.com?user=andersonhsporto&theme=prussian" />
+      src="https://github-readme-streak-stats-rust-phi.vercel.app/?user=andersonhsporto&theme=prussian" />
   </a>
 </p>
 
