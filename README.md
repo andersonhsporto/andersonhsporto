@@ -1,4 +1,4 @@
-<h2 align='center'> <img src="./img/header.png" /> </h2>
+<h2 align='center'> <img src="./img/header.jpg" /> </h2>
 
 <a href="https://github.com/andersonhsporto">
   <img align="right" src="https://github-readme-stats-beta-flame.vercel.app/api?username=andersonhsporto&rank_icon=github&theme=prussian&show_icons=true"  width="500">
