@@ -21,7 +21,7 @@ _Fun fact: I also have a degree in Agricultural Engineering._
       decoding="async" loading="lazy"
       align="center"
       height="160em"
-      src="https://github-readme-stats-beta-flame.vercel.app/api/top-langs/?username=andersonhsporto&&hide=c,jupyter%20notebook,Makefile&layout=compact&theme=prussian"
+      src="https://github-readme-stats-beta-flame.vercel.app/api/top-langs/?username=andersonhsporto&&hide=c,jupyter%20notebook,Makefile,php&layout=compact&theme=prussian"
 
 </a>
   <a href="https://github.com/andersonhsporto">
