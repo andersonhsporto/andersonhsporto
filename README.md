@@ -1,11 +1,11 @@
 <h2 align='center'> <img src="./img/header.jpg" /> </h2>
 
 <a href="https://github.com/andersonhsporto">
-  <img align="right" src="https://github-readme-stats-beta-flame.vercel.app/api?username=andersonhsporto&rank_icon=github&theme=prussian&show_icons=true"  width="500">
+  <img align="right" src="https://github-readme-stats-gamma-inky-72.vercel.app/api?username=andersonhsporto&rank_icon=github&theme=prussian&show_icons=true"  width="500">
 </a>
 
 Backend developer,
-Alumni at [42 São Paulo](https://www.42sp.org.br/), where I completed a software development program — you can check out all my course projects [here](https://github.com/andersonhsporto/ft-cursus). 
+Alumni at [42 São Paulo](https://www.42sp.org.br/), where I completed a software development program — you can check out all my course projects [here](https://github.com/andersonhsporto/ft-cursus).
 </br>
 This GitHub contains some projects I’ve created to document and share my learning journey.
 </br>
@@ -21,8 +21,7 @@ _Fun fact: I also have a degree in Agricultural Engineering._
       decoding="async" loading="lazy"
       align="center"
       height="160em"
-      src="https://github-readme-stats-gamma-inky-72.vercel.app
-/api/top-langs/?username=andersonhsporto&&hide=c,jupyter%20notebook,Makefile,php&layout=compact&theme=prussian"
+      src="https://github-readme-stats-gamma-inky-72.vercel.app/api/top-langs/?username=andersonhsporto&&hide=c,jupyter%20notebook,Makefile,php&layout=compact&theme=prussian"
 
 </a>
   <a href="https://github.com/andersonhsporto">
@@ -30,7 +29,7 @@ _Fun fact: I also have a degree in Agricultural Engineering._
       decoding="async" loading="lazy"
       align="center"
       height="160em"
-      src="https://github-readme-streak-stats-rust-phi.vercel.app/?user=andersonhsporto&theme=prussian" />
+      src="https://github-readme-streak-stats-9ret.vercel.app/?user=andersonhsporto&theme=prussian" />
   </a>
 </p>
 
