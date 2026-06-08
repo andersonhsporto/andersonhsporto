@@ -26,10 +26,9 @@ _Fun fact: I also have a degree in Agricultural Engineering._
 </a>
   <a href="https://github.com/andersonhsporto">
     <img
-      decoding="async" loading="lazy"
       align="center"
       height="160em"
-      src="https://github-readme-streak-stats-9ret.vercel.app/?user=andersonhsporto&theme=prussian" />
+      src="https://github-readme-streak-stats-9ret-89qgwl9ef.vercel.app/?user=andersonhsporto&theme=prussian&date_format=j%20M%5B%20Y%5D" />
   </a>
 </p>
 
